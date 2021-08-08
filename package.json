@@ -3,6 +3,11 @@
     "displayName": "embedded-platformio",
     "description": "",
     "version": "0.0.1",
+    "publisher": "marcpaul",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marcpaul/vscode-embedded-platformio.git"
+    },
     "engines": {
         "vscode": "^1.59.0"
     },
